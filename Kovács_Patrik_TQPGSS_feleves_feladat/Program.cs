@@ -22,6 +22,7 @@ namespace Kovács_Patrik_TQPGSS_feleves_feladat
                 falakTomb[i - 1, 1] = int.Parse(darabol2[0]) - 1;
                 falakTomb[i - 1, 2] = int.Parse(darabol2[2]);
                 falakTomb[i - 1, 3] = int.Parse(darabol2[3]);
+                //adswgfwejgiweufgzfzewfwefzewgfwegfzwewegfwegfwezufgwezufgzweufgwezgfzweugfzuwetfgweffefef
             }
             Matrix.falFeltoltes(falakTomb);
             Matrix.feltoltesSzamokkal();
